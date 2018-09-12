@@ -1,0 +1,33 @@
+body,html{
+    height:100%;
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+/*.title-logo {
+  color: gray;
+  display: flex;
+  font-family: Luckiest Guy;
+  justify-content: center;
+  margin-bottom: 50px;
+}*/
+
+.title-logo {
+  content: url(logo.png);
+  width: 60%;
+  display: flex;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.form-control {
+  border-radius: 60px;
+
+}
+
+.btn {
+  border-radius: 60px;
+}
